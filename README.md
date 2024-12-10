@@ -1,2 +1,2 @@
 # password_manager
-Developed a secure Password Manager using Python, enabling encrypted storage and retrieval of passwords with the **Fernet** encryption module. Demonstrated skills in encryption, file handling, and user-friendly interface design.
+Designed and implemented a Password Manager application in Python to securely store and retrieve user passwords. Utilized the Fernet encryption module to encrypt passwords before saving them in a local file, ensuring data confidentiality. Developed functionality to view stored credentials with decryption and add new passwords with verification, emphasizing usability and error handling. Demonstrated proficiency in encryption techniques, file management, and creating an intuitive user interface for secure credential management.
